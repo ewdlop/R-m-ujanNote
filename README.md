@@ -1,4 +1,4 @@
-# R-m-ujanNote
+# RāmāṉujanNote
 
 Google Gemni:
    The names Rāmāṉujan (Srinivasa Ramanujan), Hardy (G. H. Hardy), and Littlewood (J. E. Littlewood) are linked by one of the most famous and productive collaborations in the history of mathematics, primarily at the University of Cambridge in the early 20th century.
